@@ -1,0 +1,1 @@
+# Complete-square-symbolic-pattern
